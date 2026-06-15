@@ -19,6 +19,20 @@ Developed a predictive healthcare system that analyzes patient health parameters
 
 ---
 
+###🤖 **AI-Powered Customer Support Chatbot Using RAG**
+
+An intelligent AI-based customer support system that predicts ticket resolution status (Resolved, Pending, or Escalated) using Machine Learning and Deep Learning. The project analyzes customer queries, sentiment, priority, response time, and satisfaction levels to improve support efficiency and customer experience.
+
+**Key Features:**
+• Ticket resolution prediction
+• Sentiment analysis
+• AI-powered chatbot support
+• Customer satisfaction analytics
+• Support process optimization
+
+**Domain:** Customer Support Analytics & Artificial Intelligence (AI) 🚀
+
+
 ### 🎓 AI-Based Student Performance Prediction System
 An intelligent educational analytics system that predicts student academic performance based on various factors influencing learning outcomes.
 
