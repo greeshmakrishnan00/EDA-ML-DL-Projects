@@ -33,6 +33,9 @@ An intelligent AI-based customer support system that predicts ticket resolution 
 **Domain:** Customer Support Analytics & Artificial Intelligence (AI) 🚀
 
 
+---
+
+
 ### 🎓 AI-Based Student Performance Prediction System
 An intelligent educational analytics system that predicts student academic performance based on various factors influencing learning outcomes.
 
